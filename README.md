@@ -1,2 +1,2 @@
 # fast1image-
-la configuracion para poner imagen
+Codigo para la configuracion de fastfetch el primero te deja poner una imagen. El segundo pues veanlo :)
